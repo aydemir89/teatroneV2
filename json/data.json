@@ -1,0 +1,29 @@
+{
+  "page":1,
+  "results":[
+    {
+      "poster_path":"https://firebasestorage.googleapis.com/v0/b/teatrone.appspot.com/o/items%2F1111.jpg?alt=media&token=bfbd0d87-811c-474e-9747-57694719f372",
+      "adult":false,
+      "overview":"Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+      "release_date":"2015-12-18",
+      "genre_ids":[
+        28,
+        12,
+        878,
+        14
+      ],
+      "id":140607,
+      "original_title":"Star Wars: The Force Awakens",
+      "original_language":"en",
+      "title":"Benim Ben Shakespare",
+      "backdrop_path":"https://firebasestorage.googleapis.com/v0/b/teatrone.appspot.com/o/items%2F1111.jpg?alt=media&token=bfbd0d87-811c-474e-9747-57694719f372",
+      "popularity":79.28243,
+      "vote_count":1055,
+      "video":false,
+      "vote_average":8.05
+    }
+  ],
+
+  "total_results":249244,
+  "total_pages":12463
+}
