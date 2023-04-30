@@ -1,27 +1,32 @@
-# Next.js + Tailwind CSS Example
+# Teatrone Web Site 
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This is a film streaming website made using the TMDB (The Movie Database) API. It is built using Next.js and has a responsive design. The site allows you to browse popular movies, search for movies based on a keyword, and add movies to your favorites list.
 
-## Deploy your own
+## Features
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+* Browse popular movies, search for movies based on a keyword, and add movies to your favorites list.
+* View details about each movie, including comments and ratings.
+* Responsive design that looks great on both desktop and mobile devices.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## Installation
+To run this application locally, follow these steps:
 
-## How to use
+* Clone or download this repo to your local machine.
+* Open the terminal and navigate to the project folder.
+* Run the command npm install to install the necessary dependencies.
+* Copy the .env.local.sample file to .env.local and replace the API key with your own.
+* Run the command npm run dev to start the application.
+* Navigate to http://localhost:3000 to start using your film streaming website!
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+## Technologies Used
+* Next.js
+* React
+* TMDB API
+* Bootstrap
+* Sass
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+## Contributions
+If you'd like to contribute, please fork the GitHub repository and submit your suggestions or changes as a pull request. Thank you!
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+link of website
+https://teatrone-v2-mh1s.vercel.app/login
