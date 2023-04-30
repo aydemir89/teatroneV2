@@ -18,6 +18,12 @@ To run this application locally, follow these steps:
 * Run the command npm run dev to start the application.
 * Navigate to http://localhost:3000 to start using your film streaming website!
 
+## After Installation
+* Enter your email and password then click Sign up Now
+![teat](https://user-images.githubusercontent.com/74077500/235377226-7c2f9a3b-96ac-4e98-9600-60db6a43d791.jpg)
+![1s](https://user-images.githubusercontent.com/74077500/235377280-68410b26-d7d6-405c-9516-ec82ed947bb2.jpg)
+
+
 ## Technologies Used
 * Next.js
 * React
